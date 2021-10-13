@@ -28,6 +28,6 @@ What % of Vine & non-Vine reviews were 5 stars?
 - Vine = 46.99%
 - Non-Vine = 46.99%
 
-**Analysis code **
+- **Analysis code **
 
 ![deliverable2.PNG](https://github.com/Bionicbabes/Amazon_Vine_Analysis/blob/main/pics/deliverable2.PNG)
