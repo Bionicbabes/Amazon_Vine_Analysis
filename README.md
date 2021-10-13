@@ -35,3 +35,5 @@ What % of Vine & non-Vine reviews were 5 stars?
 --------------------------------------------------
 
 # **Summary**
+
+From the results we can see that there is a big difference in the sample size between the paid amazon vine reviews and the non subscribers.  With that being said is it even more interesting that the paid amazon vine review and the non subscribers have the exact same percentage of 5 star review.  
