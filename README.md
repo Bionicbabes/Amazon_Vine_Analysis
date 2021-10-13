@@ -36,4 +36,10 @@ What % of Vine & non-Vine reviews were 5 stars?
 
 # **Summary**
 
-From the results we can see that there is a big difference in the sample size between the paid amazon vine reviews and the non subscribers.  With that being said is it even more interesting that the paid amazon vine review and the non subscribers have the exact same percentage of 5 star review.  
+From the results we can see that there is a big difference in the sample size between the paid amazon vine reviews and the non subscribers.  With that being said is it even more interesting that the paid amazon vine review and the non subscribers have the exact same percentage of 5 star review.  With the percentages being exactly the same i can not conclude that there is any bias bwtween the amazon vine paid user and the non subscribers 
+
+Additional analysis that might be performed to see if there is any bias is:
+
+- Look at overall distribution of ratings for paid vs non-paid instead of limiting view to only 5-star.
+- Look at the pool of all 50 data sets and not just US Home Improvements
+- Analysis looking at individual users to see if they are influencing the distribution (ie bots leaving reviews)
